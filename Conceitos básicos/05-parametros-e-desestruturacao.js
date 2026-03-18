@@ -1,5 +1,3 @@
-// @ts-nocheck
-
 // function createUserRoute(body) {
 //   // validações
 //   createUserController(body)

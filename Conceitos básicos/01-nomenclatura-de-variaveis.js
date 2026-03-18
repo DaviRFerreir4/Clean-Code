@@ -1,5 +1,3 @@
-// @ts-nocheck
-
 // Deixar claro o que uma função ou variável representa
 const users = ['Davi', 'Flávia', 'Sara', 'Paulo']
 

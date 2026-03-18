@@ -1,5 +1,3 @@
-// @ts-nocheck
-
 // Nomear variáveis pela causa, e não pelo efeito
 // Efeito: botão desabilitado
 // Causa: formulário sendo enviado

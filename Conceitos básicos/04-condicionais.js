@@ -1,5 +1,3 @@
-// @ts-nocheck
-
 // Evite negações
 
 // const isUserOlderThan18Years = true
@@ -14,7 +12,7 @@ if (isUserYoungerThan18Years && doesUserLivesOutsideBrazil) {}
 
 // Early return X Else
 
-function isUserOlderThan18Years(user: any) {
+function isUserOlderThan18Years(user) {
   if (!user) {
     return { error: true }
   } /* else {
@@ -25,7 +23,7 @@ function isUserOlderThan18Years(user: any) {
 
 // Evite condicionais aninhadas
 
-let user: any
+let user
 
 // const isUserOfLegalAge = user.age >= 18 ? user.age === 18 ? '' : '' : ''
 

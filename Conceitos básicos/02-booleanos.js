@@ -1,5 +1,3 @@
-// @ts-nocheck
-
 // Escrever como perguntas
 
 // const userMajority = true

@@ -1,5 +1,3 @@
-// @ts-nocheck
-
 const numberInString = '42138'
 
 // Funcionam, mas não são as melhores maneiras de fazer isso
